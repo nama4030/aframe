@@ -1,6 +1,4 @@
-# Sous Vide
-## pre-made vacuum sealed code ready to boil  
+# WEB VR using A-frame
+## Spaceless Pixels Exploration!
 
-* web project starter
-	* smashup of html5 boilerplate
-	* with node, node-sass, gulp-sass, and gulp
+Explore the randomly generated colored pixels deep within space!
